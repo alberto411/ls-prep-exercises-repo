@@ -1,0 +1,3 @@
+What is exception handling?
+
+Exception handling is the process of responding to exceptions, normally using a try-catch statement
